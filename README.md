@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhinav</h1>
 <h3 align="center">Generative Art | Foss/Linux | CP | Full-Stack</h3>
 
-## 🌐 Connect with me:
+## 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/abhinavborah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavborah" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abhinavborah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhinavborah" height="30" width="40" /></a>

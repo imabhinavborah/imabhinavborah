@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhinav</h1>
 <h3 align="center">Generative Art | Foss/Linux | CP | Full-Stack</h3>
 
-<p aligh="center"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"></p>
+<span aligh="center"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"></span>
 
 ## 🤝 Connect with me:
 <p align="left">

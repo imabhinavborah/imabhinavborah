@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhinav</h1>
 <h3 align="center">Generative Art | Foss/Linux | CP | Full-Stack</h3>
 
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+
 ## 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/abhinavborah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavborah" height="30" width="40" /></a>
@@ -20,3 +22,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavborah&show_icons=true&theme=gruvbox&hide_border=true&line_height=27" alt="Abhinav's Github Stats" />
 </a>
 
+
+<!-- Resources -->
+<!-- Inspiration: https://github.com/MartinHeinz/MartinHeinz/blob/ -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->

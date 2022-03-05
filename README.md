@@ -44,9 +44,7 @@
 
 <!-- Resources -->
 <!-- Inspiration: https://github.com/MartinHeinz/MartinHeinz/blob/ -->
-<!-- Icons: https://simpleicons.org/ -->
+<!-- Base-Template: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->

@@ -14,7 +14,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/abhinavborah/abhinavborah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavborah&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavborah&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/abhinavborah/abhinavborah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavborah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abhinav's GitHub Stats" />

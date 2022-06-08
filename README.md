@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm Abhinav</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Abhinav</h1>
 <h3 align="center">Generative Art | Foss/Linux | CP | Full-Stack</h3>
 
 ##  &#x1f4ac; Connect with me:

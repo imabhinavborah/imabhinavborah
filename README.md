@@ -14,10 +14,10 @@
 ## &#x1f4c8; GitHub Stats:
 
 <a href="https://github.com/abhinavborah/abhinavborah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavborah&show_icons=true&theme=gruvbox&hide_border=true&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhinavborah&show_icons=true&theme=gruvbox&hide_border=true&langs_count=3" />
 </a>
 <a href="https://github.com/abhinavborah/abhinavborah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavborah&show_icons=true&theme=gruvbox&hide_border=true&line_height=27" alt="Abhinav's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imabhinavborah&show_icons=true&theme=gruvbox&hide_border=true&line_height=27" alt="Abhinav's Github Stats" />
 </a>
 
 

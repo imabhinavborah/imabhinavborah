@@ -1,2 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Abhinav</h1>
+hi im abhinav
 
+- this is where i hoard stuff
+- please refer to my bio for the main profile
